@@ -14,7 +14,7 @@
 ## Install NPM packages :outbox_tray:
 
 ```
-** npm install **
+> npm install 
 ```
 
 ## Compiles and hot-reloads for development :floppy_disk:
@@ -32,9 +32,9 @@
 ## Lints and fixes files :wrench:
 
 ```
-> npm run build 
+> npm run lint
 ```
 
 
 
-![todo](https://user-images.githubusercontent.com/69055006/128366219-d74b566e-0a5f-40ff-8098-6432c9801d1e.png)
+![todo](https://user-images.githubusercontent.com/69055006/128369622-7a0fe511-f4e2-4369-a50e-c108bb1754c1.png)
