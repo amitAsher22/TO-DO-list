@@ -36,6 +36,5 @@
 ```
 
 
-![localstorage](https://user-images.githubusercontent.com/69055006/128366917-05ffeb6b-e0a7-4bfd-a5b8-2517f4196066.jpg) ![GitHub](https://user-images.githubusercontent.com/69055006/128367192-482e34b8-0336-4dec-96d5-b401b96a8360.png) ![logo](https://user-images.githubusercontent.com/69055006/128365213-feeb9810-ea93-4a64-b7ac-20ffe86883d4.png)
 
 ![todo](https://user-images.githubusercontent.com/69055006/128366219-d74b566e-0a5f-40ff-8098-6432c9801d1e.png)
